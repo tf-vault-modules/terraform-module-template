@@ -37,6 +37,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
+.history
 
 go.mod
 go.sum
